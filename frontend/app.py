@@ -24,7 +24,10 @@ import streamlit as st
 
 # ── Configuration ────────────────────────────────────────────────────
 
-BACKEND_URL = "http://localhost:8001"
+# Read backend URL from Streamlit Secrets (for Streamlit Cloud deployment)
+# or fall back to localhost for local development.
+# In Streamlit Cloud Secrets, add:  BACKEND_URL = "https://your-backend.onrender.com"
+BACKEND_URL = st.secrets.get("BACKEND_URL", "http://localhost:8001")
 
 LANGUAGES = {
     "English (US)": "en-US",
