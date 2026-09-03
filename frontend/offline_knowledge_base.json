@@ -1,0 +1,173 @@
+{
+  "wheat": {
+    "local_name": "Gandum (گندم)",
+    "sowing_season": "October – December (Rabi season)",
+    "harvesting_season": "March – May",
+    "water_needs": "Moderate — 4 to 6 irrigations across the season; critical watering at tillering, flowering, and grain-filling stages",
+    "common_issues": [
+      "Yellow Rust (Kundal) — appears as yellow streaks on leaves in cool, humid weather",
+      "Brown Rust (Bharti) — small brown pustules on leaves, worsens in warm humid conditions",
+      "Loose Smut (Kanak) — black powder replaces grain heads",
+      "Aphids (Cheentee) — tiny sap-sucking insects that weaken plants near heading",
+      "Army Worm (Lashkari Idda) — caterpillars that chew through leaves and stems"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~50 kg/acre DAP at sowing + ~50 kg/acre Urea split into 2 doses (at first irrigation and at booting). Adjust based on soil test results.",
+    "general_tips": [
+      "Use certified seed varieties suited to your zone (e.g. Faisalabad-08, Pakistan-13 for Punjab; TD-1 for Sindh).",
+      "Sow at the recommended time for your region — late sowing drastically reduces yield due to heat stress at grain filling.",
+      "Ensure good land preparation with 2–3 ploughings and planking for even germination."
+    ]
+  },
+  "rice": {
+    "local_name": "Chawal / Dhaan (چاول / دھان)",
+    "sowing_season": "Nursery: May – June; Transplanting: June – July (Kharif season)",
+    "harvesting_season": "September – November",
+    "water_needs": "High — standing water (5–7 cm) is maintained for most of the growing period; requires reliable irrigation or monsoon rains",
+    "common_issues": [
+      "Blast Disease (Darakht ki Bimari) — diamond-shaped lesions on leaves and neck rot on panicles",
+      "Bacterial Leaf Blight — yellowing and wilting of leaf margins",
+      "Stem Borer (Tana Chedak) — larvae tunnel into stems causing dead hearts and white heads",
+      "Brown Plant Hopper (BPH) — small insects at the base causing hopper burn (drying of plants)",
+      "Sheath Blight — oval greenish-grey lesions on leaf sheaths near water level"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~60 kg/acre Urea in 3 split doses (at transplanting, tillering, and panicle initiation). Add ~25 kg/acre DAP at transplanting. Zinc sulphate (6 kg/acre) helps in deficient soils.",
+    "general_tips": [
+      "Transplant 20–25 day old seedlings at a spacing of 20 × 20 cm for better tillering.",
+      "Drain the field 10–15 days before harvest to allow uniform ripening and easier harvesting.",
+      "Alternate wetting and drying (AWD) can save up to 30% water without significant yield loss."
+    ]
+  },
+  "cotton": {
+    "local_name": "Kapaas (کپاس)",
+    "sowing_season": "April – June (Kharif season); May is ideal for most of Punjab and Sindh",
+    "harvesting_season": "September – January (multiple pickings)",
+    "water_needs": "Moderate to High — requires 6–8 irrigations; most critical during flowering and boll formation; avoid waterlogging",
+    "common_issues": [
+      "Cotton Leaf Curl Virus (CLCV / Peeliya) — leaves curl upward, veins thicken; spread by whitefly",
+      "Bollworms (Ameri Sundi / Pink Bollworm) — larvae bore into bolls, damaging fibre and seed",
+      "Whitefly (Safed Makkhi) — tiny white insects that suck sap and transmit CLCV",
+      "Jassids (Tatti) — wedge-shaped insects causing leaf hopper burn (reddening of leaf margins)",
+      "Root Rot / Stem Rot — wilting and death of plants in waterlogged soils"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~50 kg/acre DAP + ~25 kg/acre SOP (sulphate of potash) at sowing. Top dress with ~50 kg/acre Urea in 2 splits at flowering and boll formation. Potash helps boll size and fibre quality.",
+    "general_tips": [
+      "Plant CLCV-resistant varieties (e.g. FH-142, IUB-13, Neelum) to reduce virus damage.",
+      "Use pheromone traps to monitor bollworm populations and time sprays more effectively.",
+      "Pick cotton at the right maturity — over-due picking leads to fibre contamination and lower grades."
+    ]
+  },
+  "sugarcane": {
+    "local_name": "Ganna (گنا)",
+    "sowing_season": "February – March (spring planting) or September – October (autumn planting)",
+    "harvesting_season": "November – March (10–12 months after spring planting; 15–18 months for autumn)",
+    "water_needs": "High — sugarcane is a long-duration crop needing 15–20 irrigations; most critical during grand growth phase (June – September)",
+    "common_issues": [
+      "Red Rot (Laal Sarr) — internal reddening of stems, sour smell; a serious fungal disease",
+      "Smut (Kaalaa Sir) — black whip-like growths replace the growing point",
+      "Top Borer — larvae bore into the top growing shoot causing dead hearts",
+      "Early Shoot Borer — attacks young shoots in the first 2 months, causing wilting",
+      "Woolly Aphid (Ooni Sussak) — white woolly masses on leaves, weakens the plant"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~100 kg/acre Urea + ~50 kg/acre DAP + ~50 kg/acre SOP at planting. Side dress with ~50 kg/acre Urea at earthing up (90–100 days). Sugarcane is a heavy feeder — soil testing is highly recommended.",
+    "general_tips": [
+      "Use healthy, disease-free seed cane (setts with 2–3 buds) from a reputable source.",
+      "Earthing up at 90–120 days prevents lodging (falling over) during monsoon winds.",
+      "Trash mulching (spreading dry leaves between rows) conserves moisture and suppresses weeds."
+    ]
+  },
+  "maize": {
+    "local_name": "Makka / Bhutta (مکئی / بھٹہ)",
+    "sowing_season": "Spring: February – March; Kharif: July – August",
+    "harvesting_season": "Spring crop: May – June; Kharif crop: September – November",
+    "water_needs": "Moderate — 4–6 irrigations; most critical at tasselling and silking stages; maize is sensitive to both drought and waterlogging",
+    "common_issues": [
+      "Fall Armyworm (FAW / Lashkari Idda) — larvae eat leaves and bore into cobs; a major recent pest in Pakistan",
+      "Downy Mildew — white downy growth on leaves; seedling disease in humid conditions",
+      "Corn Borer (Tana Chedak) — larvae tunnel into stems and cobs",
+      "Northern Leaf Blight — long grey-green lesions on leaves, reduces grain fill",
+      "Storage Weevils (Sussi) — post-harvest grain damage in storage"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~50 kg/acre DAP + ~25 kg/acre SOP at sowing. Side dress ~50 kg/acre Urea in 2 splits: at knee-high stage (25–30 days) and at tasselling. Zinc sulphate (5 kg/acre) improves yield on deficient soils.",
+    "general_tips": [
+      "Plant at 20–25 cm spacing within rows and 60–75 cm between rows for optimal plant population (~30,000 plants/acre).",
+      "For FAW control, monitor early and spray with chlorantraniliprole or emamectin benzoate when larvae are young (small).",
+      "Harvest when grain moisture is around 20–25% (black layer visible at the base of kernels) and dry to 14% before storage."
+    ]
+  },
+  "potato": {
+    "local_name": "Aaloo (آلو)",
+    "sowing_season": "October – November (main crop in Punjab); January in Sindh",
+    "harvesting_season": "January – March (main crop); about 90–120 days after sowing",
+    "water_needs": "Moderate — frequent light irrigations (every 7–10 days); avoid waterlogging which causes tuber rot; reduce watering near harvest",
+    "common_issues": [
+      "Late Blight (Phitophthora / Jhulsa) — dark water-soaked lesions on leaves spreading rapidly; the most destructive potato disease",
+      "Early Blight (Alternaria) — concentric ring spots on older leaves",
+      "Black Scurf (Rhizoctonia) — black hard sclerotia on tubers, stem canker",
+      "Aphids and Whiteflies — transmit viral diseases causing leaf roll and mosaic",
+      "Tuber Moth (Phthorimaea) — larvae tunnel into tubers in the field and in storage"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~60 kg/acre DAP + ~50 kg/acre SOP + ~50 kg/acre Urea at planting as a basal dose. Top dress with ~25 kg/acre Urea at earthing up (30–40 days). Potassium is important for tuber size and quality.",
+    "general_tips": [
+      "Use disease-free certified seed potatoes; cut large tubers into pieces with at least 1–2 eyes and let them cure for a day before planting.",
+      "Earth up at 30–40 days to cover developing tubers — this prevents greening (sunlight exposure turns potatoes green and bitter).",
+      "Apply preventive fungicide sprays (e.g. mancozeb) before blight appears, especially during cool humid weather."
+    ]
+  },
+  "tomato": {
+    "local_name": "Tamatar (ٹماٹر)",
+    "sowing_season": "Nursery: June – July (for autumn crop) or October – November (for spring crop); transplanting 3–4 weeks later",
+    "harvesting_season": "Autumn crop: August – October; Spring crop: December – March",
+    "water_needs": "Moderate — regular irrigation every 5–7 days; avoid overhead watering to reduce disease; drip irrigation gives best results",
+    "common_issues": [
+      "Tomato Yellow Leaf Curl Virus (TYLCV) — leaves curl and yellow, stunted growth; spread by whitefly",
+      "Late Blight — dark lesions on leaves, stems, and fruits during cool wet weather",
+      "Fruit Borer (Helicoverpa) — larvae bore into fruits making them unmarketable",
+      "Fusarium Wilt / Verticillium Wilt — yellowing and wilting from the base upward; soil-borne",
+      "Powdery Mildew — white powdery coating on leaves in dry warm conditions"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~40 kg/acre DAP + ~30 kg/acre SOP + ~25 kg/acre Urea at transplanting. Side dress ~25 kg/acre Urea in 2 splits at flowering and fruiting. Calcium sprays help prevent blossom end rot.",
+    "general_tips": [
+      "Stake or trellis plants to keep fruit off the ground — this reduces disease and improves fruit quality.",
+      "Mulch with black plastic or straw to conserve moisture, suppress weeds, and keep soil temperature even.",
+      "Pick fruits at the pink (breaker) stage for distant markets — they will ripen fully off the vine with less damage."
+    ]
+  },
+  "onion": {
+    "local_name": "Pyaaz (پیاز)",
+    "sowing_season": "Nursery: September – October; transplanting: October – November (Rabi season)",
+    "harvesting_season": "March – May (about 5–6 months after transplanting)",
+    "water_needs": "Moderate — light frequent irrigations; stop irrigation 10–15 days before harvest to allow bulbs to mature and develop dry outer scales",
+    "common_issues": [
+      "Purple Blotch (Alternaria) — purple-brown spots on leaves that enlarge and kill leaf tips",
+      "Stemphylium Blight — yellowish spots turning brown to black on leaves; worsens in humid weather",
+      "Downy Mildew — pale green to yellow patches with grey-purple fuzzy growth on leaves",
+      "Onion Thrips (Thrips) — tiny slender insects causing silvering of leaf surfaces",
+      "Onion Maggot — small white larvae that feed on roots and bulbs, causing rot"
+    ],
+    "fertilizer_tip": "General NPK guidance: apply ~50 kg/acre DAP + ~40 kg/acre SOP + ~25 kg/acre Urea at transplanting. Top dress ~25 kg/acre Urea at 45–60 days. Avoid excess nitrogen late in the season — it delays maturity and causes thick necks (poor storage quality).",
+    "general_tips": [
+      "Transplant seedlings when they are pencil-thick (about 6–8 weeks old) for best bulb size.",
+      "Stop irrigation 10–15 days before harvest and allow tops to fall over naturally — this improves bulb curing and storage life.",
+      "Cure harvested onions in the shade for 7–10 days (until necks are tight and outer scales are dry) before storage."
+    ]
+  },
+  "mango": {
+    "local_name": "Aam (آم)",
+    "sowing_season": "Planting: February – March or July – August (grafted plants preferred; seedlings are not recommended for commercial orchards)",
+    "harvesting_season": "May – August (varies by variety — early: Sindhri in May; mid: Chaunsa in June–July; late: Anwar Ratol, S.B. Chaunsa in July–August)",
+    "water_needs": "Moderate once established; young trees need regular watering every 7–10 days. Mature trees benefit from irrigation during flowering and fruit development (February – May). Reduce watering after monsoon to encourage dormancy and next year's flowering.",
+    "common_issues": [
+      "Mango Sudden Death Syndrome (MSDS / Ceratocystis) — rapid wilting and death of trees; a serious threat in Pakistani orchards",
+      "Anthracnose — black spots on leaves, flowers, and fruits; worsens in humid weather",
+      "Powdery Mildew (Ampheli) — white powdery growth on flowers and young fruits, causes fruit drop",
+      "Mango Fruit Fly (Bactrocera) — larvae tunnel into ripening fruits, making them unfit for market",
+      "Hoppers / Mealybugs — sap-sucking insects on flower panicles that reduce fruit set"
+    ],
+    "fertilizer_tip": "General NPK guidance for a bearing tree (age 10+ years): apply ~2 kg N + 1 kg P₂O₅ + 2 kg K₂O per tree per year, split into two doses: one before flowering (January) and one after fruit set (April). Add 50–100 kg well-decomposed FYM per tree annually. Adjust doses based on tree age and soil test.",
+    "general_tips": [
+      "Plant grafted plants of recommended varieties (Sindhri, Chaunsa, Anwar Ratol, S.B. Chaunsa, Fajri) from a reputable nursery — grafted trees bear fruit in 3–4 years vs. 7–10 years for seedlings.",
+      "Prune trees annually after harvest to maintain an open canopy — this improves light penetration, reduces disease, and makes spraying and picking easier.",
+      "Use fruit fly traps (methyl eugenol) from flowering onwards to monitor and reduce fruit fly populations; bag individual fruits for export-quality production."
+    ]
+  }
+}

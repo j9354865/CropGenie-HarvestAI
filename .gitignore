@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model files
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Data (large files only — keep small samples if needed)
+data/*.csv
+data/*.xlsx
+data/*.json
+!data/.gitkeep
+
+# Audio temp files
+*.mp3
+*.wav
+
+# Logs
+*.log
